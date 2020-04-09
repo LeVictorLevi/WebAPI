@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kellsen\\source\\repos\\WebAPI\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\Kellsen\\source\\repos\\WebAPI3\\WebAPI\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kellsen\\source\\repos\\WebAPI\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\Kellsen\\source\\repos\\WebAPI3\\WebAPI\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kellsen\\source\\repos\\WebAPI\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Kellsen\\source\\repos\\WebAPI3\\WebAPI\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\Kellsen\\source\\repos\\WebAPI\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\Users\\Kellsen\\source\\repos\\WebAPI3\\WebAPI\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\Kellsen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kellsen\\source\\repos\\WebAPI\\WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\Kellsen\\source\\repos\\WebAPI3\\WebAPI\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kellsen\\AppData\\Roaming\\NuGet\\NuGet.Config",
